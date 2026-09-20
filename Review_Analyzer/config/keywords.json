@@ -1,0 +1,7 @@
+{
+  "support": ["ticket", "tickets", "email", "emails", "call", "bot", "customer care", "support", "resolution", "unhelpful", "wait", "waiting"],
+  "charges": ["brokerage", "charge", "charges", "fee", "fees", "tax", "taxes", "dp", "amc", "hidden", "deduct", "deducted"],
+  "perf": ["slow", "hang", "hangs", "crash", "crashes", "update", "lag", "load", "loading", "glitch", "error", "bug", "stability", "stuck"],
+  "features": ["chart", "charts", "indicator", "indicators", "stop loss", "limit", "basket", "f&o", "commodity", "ipo", "tool", "tools", "options"],
+  "money": ["upi", "mandate", "sip", "withdraw", "withdrawal", "withdrawals", "kyc", "block", "blocked", "frozen", "login", "otp", "deposit", "add money", "balance", "credit", "debited"]
+}

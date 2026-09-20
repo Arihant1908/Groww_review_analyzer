@@ -1,0 +1,17 @@
+Groww Weekly Pulse · (Fallback Template)
+Reviews: 1044, Average Rating: 4.29 vs 4.42, Low-Rated: 186 vs 155
+
+Top themes:
+1. Unthemed: 90 mentions (change -7.2%). Driver: general complaints
+2. Support: 34 mentions (change 112.5%). Driver: unreachable
+3. Charges: 32 mentions (change 88.2%). Driver: high_brokerage
+
+User voice:
+- "I am so sad because pehle ka candle dikh hi nahi Raha 5 minutes pe please solve" (2 star, 2026-09-14 00:25:00)
+- "Account opening form filled for my minor daughter on 5th September but no response from the GROWW team, followed the process" (1 star, 2026-09-17 19:56:00)
+- "Groww needs brokerage only even in customer loss" (1 star, 2026-09-12 10:33:00)
+
+Action ideas:
+1. **Team**: Review themes. Track: metrics
+2. **Support Ops**: Auto-acknowledge every ticket with a status and ETA, and offer a human hand-off after one bot turn with a live wait time. Track: first-response time, call abandonment rate
+3. **Product (Trading)**: Show a pre-trade charge breakup (brokerage, taxes, DP) on the order screen and publish a plain-language 'what you pay' page. Track: charge-related tickets, share of 1-2 star reviews

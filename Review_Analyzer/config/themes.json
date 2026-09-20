@@ -1,0 +1,141 @@
+{
+  "support": {
+    "name": "Customer support & resolution",
+    "definition": "unanswered tickets or emails, call-centre bot loops and long waits, unhelpful or slow resolution.",
+    "sub_issues": {
+      "unreachable": [
+        "no reply",
+        "no response",
+        "not answering",
+        "could not connect",
+        "never reply"
+      ],
+      "bots": [
+        "bot",
+        "automated",
+        "robot",
+        "chat bot"
+      ],
+      "useless": [
+        "unhelpful",
+        "useless",
+        "did not help",
+        "not resolved"
+      ]
+    },
+    "owner": "Support Ops",
+    "action": "Auto-acknowledge every ticket with a status and ETA, and offer a human hand-off after one bot turn with a live wait time.",
+    "metric": "first-response time, call abandonment rate"
+  },
+  "charges": {
+    "name": "Brokerage, charges & fees",
+    "definition": "Brokerage, DP, tax or other charges seen as high, costly, expensive, unfair or hidden/unexpected. Includes very short remarks such as 'very costly', 'too expensive', 'high charges', 'too much brokerage'.",
+    "sub_issues": {
+      "high_brokerage": [
+        "brokerage",
+        "costly",
+        "expensive",
+        "high charges"
+      ],
+      "hidden_fees": [
+        "hidden",
+        "dp charges",
+        "tax",
+        "unexpected"
+      ]
+    },
+    "owner": "Product (Trading)",
+    "action": "Show a pre-trade charge breakup (brokerage, taxes, DP) on the order screen and publish a plain-language 'what you pay' page.",
+    "metric": "charge-related tickets, share of 1-2 star reviews"
+  },
+  "perf": {
+    "name": "App performance & stability",
+    "definition": "app is slow, hangs, crashes, screens not loading, problems after an app update.",
+    "sub_issues": {
+      "lagging": [
+        "slow",
+        "hangs",
+        "lag",
+        "hanging",
+        "lagging"
+      ],
+      "crashing": [
+        "crash",
+        "crashing",
+        "closes automatically"
+      ],
+      "loading_issues": [
+        "loading",
+        "stuck",
+        "white screen",
+        "black screen"
+      ]
+    },
+    "owner": "Engineering",
+    "action": "Profile hangs and crashes at market open, set a p95 screen-load target, and use staged rollouts with auto-rollback per app version.",
+    "metric": "crash-free sessions, p95 load time"
+  },
+  "features": {
+    "name": "Trading tools & charts",
+    "definition": "charts and indicators, stop-loss / limit / basket orders, F&O and commodity positions, IPO tools.",
+    "sub_issues": {
+      "charts": [
+        "chart",
+        "charts",
+        "indicator",
+        "candles"
+      ],
+      "orders": [
+        "stop loss",
+        "stop-loss",
+        "limit",
+        "basket",
+        "trigger"
+      ],
+      "fno_tools": [
+        "f&o",
+        "options",
+        "intraday",
+        "scalping",
+        "scalper"
+      ]
+    },
+    "owner": "Product (Trading Tools)",
+    "action": "Fix the most-reported chart and order issues first: keep indicator settings across updates, check stop-loss trigger logic, and verify F&O and commodity position display.",
+    "metric": "chart and order complaint mentions"
+  },
+  "money": {
+    "name": "Payments, withdrawals & account access",
+    "definition": "UPI / mandate / SIP problems, delayed withdrawals or credits, KYC, blocked or frozen accounts, login or OTP. Also includes KYC and account-opening problems: Aadhaar, PAN or document upload or verification failing (for example 'adhar not taking', 'aadhaar showing try again', 'kyc rejected'), e-sign or bank-verification failures. Treat adhar, aadhar, aadhaar, adhaar as the same word.",
+    "sub_issues": {
+      "kyc": [
+        "kyc",
+        "aadhaar",
+        "adhar",
+        "pan",
+        "verification",
+        "documents"
+      ],
+      "withdrawals": [
+        "withdraw",
+        "withdrawal",
+        "stuck",
+        "delay",
+        "not credited"
+      ],
+      "upi_mandate": [
+        "upi",
+        "mandate",
+        "sip",
+        "autopay"
+      ]
+    },
+    "owner": "Payments",
+    "action": "Show a live withdrawal status timeline and clear reasons for failed UPI, mandate and KYC steps.",
+    "metric": "withdrawal and KYC tickets"
+  },
+  "unthemed": {
+    "name": "Unthemed",
+    "definition": "Generic praise or abuse with no specific issue, gibberish, or complaints about investment losses or market outcomes where no app, payment, charge or support problem is described."
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "current_week": {
+    "reviews": 1044,
+    "average_rating": 4.29,
+    "low_rated": 186
+  },
+  "prior_week": {
+    "reviews": 1050,
+    "average_rating": 4.42,
+    "low_rated": 155
+  },
+  "theme_mentions": {
+    "support": {
+      "current": 34,
+      "prior": 16,
+      "change_pct": 112.5
+    },
+    "charges": {
+      "current": 32,
+      "prior": 17,
+      "change_pct": 88.2
+    },
+    "perf": {
+      "current": 26,
+      "prior": 14,
+      "change_pct": 85.7
+    },
+    "features": {
+      "current": 17,
+      "prior": 18,
+      "change_pct": -5.6
+    },
+    "money": {
+      "current": 12,
+      "prior": 3,
+      "change_pct": null
+    },
+    "unthemed": {
+      "current": 90,
+      "prior": 97,
+      "change_pct": -7.2
+    }
+  },
+  "top_themes": {
+    "unthemed": {
+      "driver": null
+    },
+    "support": {
+      "driver": "unreachable"
+    },
+    "charges": {
+      "driver": "high_brokerage"
+    }
+  },
+  "spikes": [
+    {
+      "date": "2026-09-18",
+      "count": 51,
+      "typical_count": 25.5,
+      "top_words": [
+        "customer",
+        "call",
+        "service"
+      ]
+    }
+  ],
+  "version_check": {
+    "newest_version": "18.17.3",
+    "newest_share_1_2_star": 0.168,
+    "others_share_1_2_star": 0.105,
+    "z_score": 4.32
+  },
+  "quotes": {
+    "unthemed": [
+      {
+        "quote": "I am so sad because pehle ka candle dikh hi nahi Raha 5 minutes pe please solve",
+        "rating": 2,
+        "date": "2026-09-14 00:25:00"
+      },
+      {
+        "quote": "Don't have option to provide 0 rating",
+        "rating": 1,
+        "date": "2026-09-18 13:36:00"
+      },
+      {
+        "quote": "aur kabhi2 postion bhi show ni hoti hai",
+        "rating": 1,
+        "date": "2026-09-18 09:43:00"
+      },
+      {
+        "quote": "bahut bura mere 160 rupay mar liye",
+        "rating": 1,
+        "date": "2026-09-16 20:59:00"
+      },
+      {
+        "quote": "i like this app and it's feature only I don't like one thing which is need account reactivate with the document of 12 digit AADHAR",
+        "rating": 1,
+        "date": "2026-09-14 18:53:00"
+      }
+    ],
+    "support": [
+      {
+        "quote": "Account opening form filled for my minor daughter on 5th September but no response from the GROWW team, followed the process",
+        "rating": 1,
+        "date": "2026-09-17 19:56:00"
+      },
+      {
+        "quote": "customer service is terrible they will never receive the call and will never reply you back in chat",
+        "rating": 1,
+        "date": "2026-09-18 14:21:00"
+      },
+      {
+        "quote": "10:20am 270 natural gas mini f&o mcx system didn't show of my open position that's why",
+        "rating": 1,
+        "date": "2026-09-18 10:52:00"
+      },
+      {
+        "quote": "I have been waiting for 4 days for my account reactivation, How can a person believe this App with their investment and money",
+        "rating": 1,
+        "date": "2026-09-15 10:04:00"
+      },
+      {
+        "quote": "worst service one day your money will stuck but they will never reply to your requested support and mails",
+        "rating": 2,
+        "date": "2026-09-13 21:21:00"
+      }
+    ],
+    "charges": [
+      {
+        "quote": "Groww needs brokerage only even in customer loss",
+        "rating": 1,
+        "date": "2026-09-12 10:33:00"
+      },
+      {
+        "quote": "Save yourself and avoid downloading this Brokerage is also charged on top of that",
+        "rating": 1,
+        "date": "2026-09-18 19:09:00"
+      },
+      {
+        "quote": "yesterday I have total amount 49600 I will total loss & charges 12650 now I have -757 why he will not answer or question",
+        "rating": 1,
+        "date": "2026-09-18 09:16:00"
+      },
+      {
+        "quote": "Best app is SAHI app low brokerage order execution is easy SL TP is on screen",
+        "rating": 1,
+        "date": "2026-09-17 15:32:00"
+      },
+      {
+        "quote": "For F&O trading, I also feel Groww is not very suitable due to higher brokerage charges and issues related to auto square-off/auto-sequencing",
+        "rating": 1,
+        "date": "2026-09-17 12:34:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "weeks_to_import": 12,
+  "current_window_days": 7,
+  "recipient_email": "[EMAIL]",
+  "max_note_words": 250,
+  "llm_model": "gemini-3.8-flash",
+  "llm_model_backup": "gemini-3.6-flash"
+}
