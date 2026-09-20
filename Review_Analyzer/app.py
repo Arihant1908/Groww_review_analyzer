@@ -4,6 +4,7 @@ import json
 import os
 import subprocess
 import urllib.parse
+import sys
 from fpdf import FPDF
 
 # Configure Streamlit page
